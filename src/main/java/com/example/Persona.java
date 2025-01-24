@@ -6,7 +6,6 @@ package com.example;
  */
 public class Persona {
 
-    // Attributi privati
     private String nome;
     private String cognome;
     private String codiceFiscale;
